@@ -1,60 +1,25 @@
-# RealisticDensity Mod for Cities Skylines II
+## Resignation from the CS2 Modding Community
 
-Have you always been annoyed that you have to build such large industrial areas? Or that your business takes up almost as much space as your residential areas?
-Why a power plant only has 10 employees or a high school with 2000 students only employs a handful of teachers?
+Dear Community,
 
-**Then this mod is just right for you.**
+With a heavy heart, I am announcing my resignation from the CS2 Modding Community. The decision comes as a result of the increasingly toxic atmosphere within the community, which has become intolerable for me.
 
-## Features:
-- Increased employee numbers for Commercial, Industrial, and Office zones
-- Increased employee numbers for service buildings such as schools, hospitals, clinics, power plants, police, fire stations, cargo train terminals, and harbors
-- Employee numbers of existing buildings remain unchanged
-- Higher difficulty level due to increased worker and cargo traffic and demand for well planned public transport routes
-- More storages will fill your industry zones and create a more realistic and diverse look
-- More crowded city streets and more traffic
+Over the past few weeks and months, I have encountered numerous troubling incidents that have prompted me to take this step. These include instances of code theft, the spreading of false information and lies, as well as personal attacks against my character. Particularly distressing was being unfairly labeled as a conspiracy theorist for simply expressing constructive criticism of certain aspects within the modder community.
 
-## Planned Features:
-- Add UI to change the intensity of the mod
-- Increased numbers for high density residential buildings
-- Increased employee numbers for public transport buildings
-- Increased employee numbers for unique buildings
+Furthermore, *I have been subjected to legal threats in an attempt to force me to make my code publicly accessible*, which is a stance I cannot condone.
 
-## Important Information:
-- **The mod is currently in the BETA phase - so problems can therefore occur**
-- **The mod is currently activated globally for all your cities!**
-- **It has an impact on your savegame and can possibly break your city**
-- This mod has an impact on the performance of the game (by design)
-- It is recommended to use the mod in a new city
-- However, it is possible to use the mod in an existing city, as it does not alter the employee numbers of already existing buildings
+Another issue I have faced is the lack of proper credit for my code when it was utilized by others.
 
-## Requirement
-- [BepInEx v5](https://thunderstore.io/c/cities-skylines-ii/p/BepInEx/BepInExPack/)
+In light of these challenges, I feel compelled to distance myself from the community to safeguard my mental well-being and integrity.
 
-## Mod manager installation
-I do recommend using the [Thunderstore.io mod manager](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager) , or [r2modman](https://thunderstore.io/package/ebkr/r2modman/) for Game Pass users
+To ensure the continuity of my work, I have appointed an official maintainer for my mods. You can find him under the GitHub profile name [kosch104](https://github.com/kosch104) better known as Mimonsi on PDXMods.
 
-## Manual installation
-Simply download the latest release from the [releases page](https://github.com/89pleasure/cities2-realistic-density/releases)
-and extract it to your `Cities Skylines II /bepinex/plugins` folder.
+It's important to note that my mod was not banned, but rather voluntarily removed by me. The current representation of all removed mods as banned on PDXMods is inaccurate.
 
-## Compile
-1. Create a copy of GlobalProperties.props.dist
-2. Rename it to GlobalProperties.props										
-3. Change path to your Cities Skylines II game folder
-4. Choose the correct BepInEx version
-5. It copies the dll to your BepInEx plugins folder automatically
+Despite stepping back, I remain available on the linked Discord and welcome any questions or concerns.
 
-## Community, Feedback & Support
-If you need any help or are you interested in modding yourself?
-Join our discord community: [https://discord.gg/M9rgRtGcRa](https://discord.gg/M9rgRtGcRa)
+I express my gratitude to all who have supported me throughout my tenure in the community and seek understanding regarding my decision.
 
-## Credits
-- Thanks **optimus-code** for his C# knowledge and help
+Best regards,
 
-## Special thanks to:
-- **Susanne**, **Bruceyboy24804**, **Woovie**, **Rebecca** and **mad** for their testing and feedback
-
-## License:
-- This mod is subject to the GNU license. Please read the license terms before using the mod.
-
-**Thank you for using the RealisticDensity Mod!**
+89pleasure
